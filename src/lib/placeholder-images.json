@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Luxury cruise ship on the ocean.",
+      "imageUrl": "https://psychiatric-blush-wwye6o5c13.edgeone.app/Cruise%20ships.jpg",
+      "imageHint": "cruise ship"
+    },
+    {
+      "id": "testimonial-ruben",
+      "description": "Profile picture for Ruben Hernandez",
+      "imageUrl": "https://faithful-orange-dfimzrrnwd.edgeone.app/rubendejesushernandez.png",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "testimonial-shalom",
+      "description": "Profile picture for Shalom Coba",
+      "imageUrl": "https://remarkable-fuchsia-ausorrtqqo.edgeone.app/shalom.coba_.png",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "testimonial-evelin",
+      "description": "Profile picture for Evelin Hidalgo",
+      "imageUrl": "https://beautiful-lavender-wsslydh03d.edgeone.app/heriito.hidalgo.png",
+      "imageHint": "female portrait"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Avatar for the logged-in user",
+      "imageUrl": "https://images.unsplash.com/photo-16495889069447-77c886fc53b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9ydHJhaXQlMjBwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzYyODg5NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait professional"
+    },
+    {
+      "id": "blog-post-1",
+      "description": "Seafarer looking out at the ocean from a ship.",
+      "imageUrl": "https://convenient-lavender-fn1yisqzup.edgeone.app/Joining.png",
+      "imageHint": "seafarer ocean"
+    },
+    {
+      "id": "blog-post-2",
+      "description": "A person in a life-saving training course.",
+      "imageUrl": "https://precious-turquoise-mzvgutqxyx.edgeone.app/STCW.png",
+      "imageHint": "safety training"
+    },
+    {
+      "id": "blog-post-3",
+      "description": "A chef working in a modern cruise ship kitchen.",
+      "imageUrl": "https://meaningful-tomato-ygt3gavuuu.edgeone.app/CS1.png",
+      "imageHint": "ship kitchen"
+    },
+    {
+      "id": "blog-post-4",
+      "description": "A person in a professional setting during a job interview.",
+      "imageUrl": "https://images.unsplash.com/photo-1573496130407-57329f01f769?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqb2IlMjBpbnRlcnZpZXd8ZW58MHx8fHwxNzYzMTI1MjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "job interview"
+    },
+    {
+      "id": "blog-post-5",
+      "description": "A cabin attendant making a bed on a cruise ship.",
+      "imageUrl": "https://medical-purple-b4fxn6tfru.edgeone.app/CSS.jpg",
+      "imageHint": "cabin attendant"
+    }
+  ]
+}
