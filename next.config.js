@@ -25,7 +25,11 @@ const nextConfig = {
       { source: '/hospitality-jobs', destination: '/jobs', permanent: true },
       { source: '/cruise-ship-photographer', destination: '/cruise-ship-photographer-jobs', permanent: true },
       { source: '/reviews', destination: '/about', permanent: true },
-      { source: '/employers/cunard-line', destination: '/for-employers', permanent: true },
+      { source: '/employers/cunard-line', destination: '/for-employers', permanent: true }, { source: '/blog/salaries-2026', destination: '/blog/cruise-ship-salary-guide', permanent: true },
+{ source: '/blog/top-10-best-cruise-lines-to-work-for-in-2026', destination: '/blog/how-to-get-cruise-ship-job', permanent: true },
+{ source: '/blog/cruise-ship-salaries-2026-real-paychecks', destination: '/blog/cruise-ship-salary-guide', permanent: true },
+{ source: '/signup', destination: '/apply', permanent: true },
+{ source: '/training-partners', destination: '/training', permanent: true },
     ]
   },
 }
